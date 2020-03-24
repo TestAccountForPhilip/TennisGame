@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3064a529-6605-4d16-a39c-ddea1e1c3b3b" name="Default Changelist" comment="" />
+    <list default="true" id="3064a529-6605-4d16-a39c-ddea1e1c3b3b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game.py" beforeDir="false" afterPath="$PROJECT_DIR$/game.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="TennisGameGit" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ZAO5amYY3gIfgaJwUJteKrfCtQ" />
   <component name="ProjectViewState">
@@ -15,6 +25,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/game.py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
   </component>
@@ -41,6 +52,18 @@
       <method v="2" />
     </configuration>
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -53,6 +76,42 @@
       <updated>1584278249876</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:C:/Users/pads.WIN/PycharmProjects/TennisGameGit/sound" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="419" y="233" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584278345183">
@@ -87,10 +146,14 @@
       <screen x="0" y="0" width="1920" height="1151" />
     </state>
     <state x="96" y="96" width="1728" height="959" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1151@0.0.1920.1151" timestamp="1584352502851" />
-    <state x="661" y="402" key="com.intellij.ide.util.TipDialog" timestamp="1584352092274">
+    <state x="96" y="96" width="1728" height="959" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog" timestamp="1585067977029">
       <screen x="0" y="0" width="1920" height="1151" />
     </state>
-    <state x="661" y="402" key="com.intellij.ide.util.TipDialog/0.0.1920.1151@0.0.1920.1151" timestamp="1584352092274" />
+    <state x="96" y="96" width="1728" height="959" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog/0.0.1920.1151@0.0.1920.1151" timestamp="1585067977029" />
+    <state x="661" y="402" key="com.intellij.ide.util.TipDialog" timestamp="1585067647128">
+      <screen x="0" y="0" width="1920" height="1151" />
+    </state>
+    <state x="661" y="402" key="com.intellij.ide.util.TipDialog/0.0.1920.1151@0.0.1920.1151" timestamp="1585067647128" />
     <state x="710" y="546" width="665" height="286" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1584278955360">
       <screen x="0" y="0" width="1920" height="1151" />
     </state>

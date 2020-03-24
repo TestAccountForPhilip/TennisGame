@@ -61,6 +61,7 @@ class player(object):
         if (playername == 'Anton'):
             self.hitbox = (self.x + 4, self.y + 5, 29, 38)
 
+    # Function for drawing the player.
     def draw(self, win):
 
         if self.playername == 'Katerina':
